@@ -1,0 +1,71 @@
+{
+  "search_button": {
+    "search": "Search"
+  },
+  "toast": {
+    "message": "Please enter some text",
+    "emptyMessage":"Nothing found."
+  },
+  "menu": {
+    "menu_search": "Search",
+    "menu_balance": "Balance",
+    "menu_favorite": "Favorite",
+    "menu_files": "Files",
+    "sub_menu_add": "Add a file",
+    "sub_word": "My Word files",
+    "sub_presentation": "My presentations",
+    "sub_statistics": "Statistics",
+    "sub_menu_bought": "I bought",
+    "sub_menu_notes": "Notes",
+    "menu_board": "About Us",
+    "menu_admin": "Admin",
+    "menu_chat": "Chat",
+    "menu_exit": "Exit"
+  },
+
+  "arrow": {
+    "search": "Search",
+    "favorite": "To favorite",
+    "share": "Share",
+    "font-plus": "Font+",
+    "font-minus": "Font-"
+  },
+  "chat": {
+    "chatArchive": "Chat Archive",
+    "archivedChat":"Archived Chats",
+    "notifyMsg":"Do you want to restore the selected archive chat?",
+    "no":"No",
+    "yes":"Yes",
+    "deleteChatArchive":"Delete Chat",
+    "archive":"Archive",
+    "gallery":"Camera & Photo",
+    "document":"Document ",
+    "audio":"Audio ",
+    "cancel":"Cancel",
+    "restore":"Restore",
+    "typing":"typing...",
+    "uploading":"Uploading..."
+  },
+  "exit":{
+   "exitMsg":"Are you sure you want to exit the app?",
+   "yesButton":"Yes",
+   "noButton":"No"
+  },
+  "balance":{
+    "topUp":"Top Up Balance",
+    "cancel":"Cancel"
+  },
+  "question":{
+    "Ok":"Ok",
+    "cancel":"Cancel"
+  },
+  "notes":{
+    "delete_note_alert":"Selected notes will be deleted. Are you agree?",
+    "yes_note":"Yes",
+    "no_note":"No",
+    "note_saved":"Saved",
+    "save_note_changes":"Save changes?",
+    "no_change":"No change detected",
+    "download_note_alert":"Selected notes will be downloaded. Are you agree?"
+  }
+}

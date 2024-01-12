@@ -1,0 +1,71 @@
+{
+  "search_button": {
+    "search": "искать"
+  },
+  "toast": {
+    "message": "Пожалуйста, введите текст",
+    "emptyMessage":"Ничего не найдено."
+
+  },
+  "menu":{
+    "menu_search": "Поиск",
+    "menu_balance":"Баланс",
+    "menu_favorite":"Избранные",
+    "menu_files":"Файлы ",
+    "sub_menu_add":"Добавить файл",
+    "sub_word":"Мои Word файлы ",
+    "sub_presentation":"Мои презентаций",
+    "sub_statistics":"Статистика",
+    "sub_menu_bought":"Я купил",
+    "sub_menu_notes":"Блокнот",
+    "menu_board":"О нас",
+    "menu_admin": "Админ ",
+    "menu_chat":"Чат",
+    "menu_exit":"Выход"
+  },
+  "arrow": {
+    "search": "Поиск",
+    "favorite": "Избранное",
+    "share": "Поделиться",
+    "font-plus": "Шрифт+",
+    "font-minus": "Шрифт-"
+  },
+  "chat": {
+    "chatArchive": "Архив",
+    "archivedChat":"Архивированные чаты",
+    "notifyMsg":"Вы хотите восстановить выбранный архивный чат?",
+    "no":"Жоқ",
+    "yes":"Иә",
+    "deleteChatArchive":"Удалить чат",
+    "archive":"В архив",
+    "gallery":"Камера & Фото",
+    "document":"Документ  ",
+    "audio":"Аудио",
+    "cancel":"Отмена",
+    "restore":"Восстановить",
+    "typing":"печатает...",
+    "uploading":"Загружается..." 
+  },
+  "exit":{
+    "exitMsg":"Вы уверены, что хотите выйти из приложения?",
+    "yesButton":"Да",
+    "noButton":"Нет"
+   },
+   "balance":{
+    "topUp":"Пополнить баланс",
+    "cancel":"Отмена"
+  },
+  "question":{
+    "Ok":"Ok",
+    "cancel":"Отмена"
+  },
+  "notes":{
+    "delete_note_alert":"Выбранные заметки будут удалены. Вы согласны?",
+    "yes_note":"да",
+    "no_note":"нет",
+    "note_saved":"Сохранено",
+    "save_note_changes":"Сохранить изменения?",
+    "no_change":"No change detected",
+    "download_note_alert":"Selected notes will be downloaded. Are you agree?"
+  }
+}

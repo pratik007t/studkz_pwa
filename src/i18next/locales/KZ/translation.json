@@ -1,0 +1,73 @@
+{
+  "search_button": {
+    "search": "Іздеу"
+  },
+  "toast": {
+    "message": "Мәтінді енгізіңіз",
+    "emptyMessage":"Ештеңе табылған жоқ."
+
+  },
+  "menu": {
+    "menu_search": "Іздеу",
+    "menu_balance": "Теңгерім",
+    "menu_favorite": "Таңдаулы",
+    "menu_files": "Файлдар ",
+    "sub_menu_add": "Файл қосу",
+    "sub_word": "Word файлдарым",
+    "sub_presentation": "Презентацияларым",
+    "sub_statistics": "Статистика",
+    "sub_menu_bought": "Cатып алдым",
+    "sub_menu_notes": "Дәптерше",
+    "menu_board": "Біз жайлы",
+    "menu_admin": "Админ ",
+    "menu_chat": "Чат",
+    "menu_exit":"Шығу"
+  
+  },
+
+  "arrow": {
+    "search": "Іздеу",
+    "favorite": "Таңдаулыға",
+    "share": "Бөлісу",
+    "font-plus": "Қаріп+",
+    "font-minus": "Қаріп-"
+  },
+  "chat": {
+    "chatArchive": "Мұрағатталған чаттар",
+    "archivedChat":"Мұрағат",
+    "notifyMsg":"Таңдалған мұрағаттық чатты қалпына келтіргіңіз келе ме?",
+    "no":"Нет",
+    "yes":"Да",
+    "deleteChatArchive":"Чатты жою",
+    "archive":"Мұрағатқа",
+    "gallery":"Камера & Фото",
+    "document":"Құжат",
+    "audio":"Аудио ",
+    "cancel":"Болдырмау",
+    "restore":"Қалпына келтіру",
+    "typing":"теріп жатыр...",
+    "uploading":"Жүктелуде..."
+  },
+  "exit":{
+    "exitMsg":"Қолданбадан шыққыңыз келетініне сенімдісіз бе?",
+    "yesButton":"Иә",
+    "noButton":"Жоқ"
+   },
+   "balance":{
+    "topUp":"Теңгерімді толтыру",
+    "cancel":"Болдырмау"
+  },
+  "question":{
+    "Ok":"Ok",
+    "cancel":"Болдырмау"
+  },
+  "notes":{
+    "delete_note_alert":"Таңдалған жазбалар жойылады. Сіз келісесіз бе?",
+    "yes_note":"иә",
+    "no_note":"жоқ",
+    "note_saved":"Сақталды",
+    "save_note_changes":"Өзгерістерді сақтау керек пе?",
+    "no_change":"No change detected",
+    "download_note_alert":"Selected notes will be downloaded. Are you agree?"
+  }
+}
